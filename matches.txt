@@ -1,0 +1,84 @@
+
+--- Matches for Haadi Sangeen ---
+1. Saliq Bashir (78.3%)
+
+--- Matches for Agha Adnan ---
+1. Saliq Bashir (83.3%)
+2. Haadi Sangeen (78.3%)
+  
+--- Matches for Ateeb ---
+1. sabiq (63.3%)
+
+--- Matches for Salik ---
+1. Ateeb (66.7%)
+2. sabiq (53.3%)
+
+--- Matches for ruhaab ---
+1. Ateeb (76.7%)
+2. sabiq (70.0%)
+3. nigga (70.0%)
+
+--- Matches for Umaan ---
+1. Salik (76.7%)
+2. Ateeb (73.3%)
+3. ruhaab (70.0%)
+
+--- Matches for aayat ---
+1. Umaan (80.0%)
+2. Ateeb (73.3%)
+3. ruhaab (73.3%)
+
+--- Matches for Anas ---
+1. Umaan (83.3%)
+2. ruhaab (76.7%)
+3. aayat (73.3%)
+
+--- Matches for filza ---
+1. aayat (85.0%)
+2. ruhaab (78.3%)
+3. Anas (75.0%)
+
+--- Matches for Hammad ---
+1. Salik (81.7%)
+2. Anas (78.3%)
+3. ruhaab (75.0%)
+
+--- Matches for Aadam ---
+1. Hammad (81.7%)
+2. Salik (76.7%)
+3. ruhaab (76.7%)
+
+--- Matches for saleen ---
+1. Ateeb (83.3%)
+2. Umaan (80.0%)
+3. Salik (76.7%)
+
+--- Matches for muqadas ---
+1. saleen (90.0%)
+2. Ateeb (86.7%)
+3. ruhaab (83.3%)
+
+--- Matches for aetezaz ---
+1. muqadas (86.7%)
+2. Ateeb (80.0%)
+3. ruhaab (80.0%)
+
+--- Matches for aly ---
+1. Umaan (85.0%)
+2. muqadas (85.0%)
+3. Ateeb (81.7%)
+
+--- Matches for Hasin Zargar ---
+1. Ateeb (81.7%)
+2. Hammad (80.0%)
+3. muqadas (75.0%)
+
+--- Matches for moon ---
+1. Hasin Zargar (83.3%)
+2. Hammad (76.7%)
+3. Ateeb (75.0%) 
+
+--- Matches for Misbah Muneer ---
+1. Haadi Sangeen (86.7%)
+2. Saliq Bashir (68.3%)
+3. Agha Adnan (68.3%)
