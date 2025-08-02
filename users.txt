@@ -6,3 +6,35 @@ Agha Adnan
 5 2 5 2 4 3 2 3 3 4 2 4 
 Misbah Muneer
 1 3 4 4 3 4 2 3 2 1 4 1 
+Sabiq
+1 1 1 1 3 4 1 1 3 3 1 2 
+Ateeb
+3 3 4 3 2 3 4 2 2 4 5 3 
+Salik Aejaz
+5 5 5 2 4 1 3 4 5 5 2 3 
+Ruhaab Aabroo
+1 5 3 3 3 2 5 3 2 3 2 2 
+Umaan mehraj
+4 3 5 5 4 4 5 3 4 5 1 3 
+Aayat Mir
+4 4 5 5 2 4 5 1 1 2 1 2 
+Anas Dagga
+1 5 5 5 4 5 5 4 4 4 1 1 
+Filza Fida
+1 5 5 4 1 3 5 1 1 1 1 1 
+Hammad Mustafa 
+3 5 5 2 4 5 3 3 5 3 3 2 
+Raja Aadam
+2 5 2 2 4 3 1 4 4 4 3 2 
+Saleen Iqbal 
+3 3 4 3 4 2 2 2 3 4 1 3 
+Muqadas Basharat 
+2 3 4 2 3 2 4 2 3 4 2 3 
+Aetezaz Jeelani
+1 3 4 1 1 3 5 3 4 4 2 3 
+Aleena Peer
+3 3 4 4 3 4 5 4 3 3 2 3 
+Hasin Zargar
+3 5 3 2 1 5 4 1 5 4 5 3 
+Muntaha Buch
+2 4 1 2 4 5 5 1 4 3 5 3 
